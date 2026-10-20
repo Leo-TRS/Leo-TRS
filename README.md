@@ -2,6 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=180&section=header&text=L%C3%A9onard%20Torossian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Juriste%20-%20codeur&descAlignY=60&descSize=20" alt="Léonard Torossian - Juriste - codeur" width="100%">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/upec-dark.svg">
+  <img src="assets/upec.svg" alt="UPEC" height="45">
+</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/epitech.png" alt="Epitech" height="38">
+
 ### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
 
 <a href="https://cyber.gouv.fr"><img src="https://img.shields.io/badge/ANSSI-Sensibilisation%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9-1E3A5F?style=for-the-badge" alt="Certification ANSSI - Sensibilisation à la cybersécurité"></a>

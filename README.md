@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=180&section=header&text=L%C3%A9onard%20Torossian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Legal%20tech%20developer&descAlignY=60&descSize=20" alt="Léonard Torossian - Legal tech developer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:4A6FA5&height=180&section=header&text=L%C3%A9onard%20Torossian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Legal%20tech%20developer%20%C2%B7%20Data%20protection&descAlignY=60&descSize=20" alt="Léonard Torossian - Legal tech developer · Data protection" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/upec-dark.svg">

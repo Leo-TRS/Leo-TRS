@@ -12,7 +12,7 @@ Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'I
 
 ## 📜 Certifications
 
-![ANSSI](https://img.shields.io/badge/Certification-ANSSI-000091?style=for-the-badge)
+![ANSSI - Sensibilisation à la cybersécurité](https://img.shields.io/badge/ANSSI-Sensibilisation%20à%20la%20cybersécurité-000091?style=for-the-badge)
 ![CNIL - L'atelier RGPD](https://img.shields.io/badge/CNIL-L'atelier%20RGPD-E1000F?style=for-the-badge)
 
 ---

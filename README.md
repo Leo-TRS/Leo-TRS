@@ -1,6 +1,6 @@
-# Bonjour, je suis Léonard 👋
+# Juriste - codeur
 
-### Juriste informaticien - Apprenti DPO
+### Apprenti DPO
 
 ## 🎓 Parcours
 

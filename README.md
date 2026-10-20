@@ -48,7 +48,3 @@ Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'I
 - **Régulation de l'IA** - AI Act
 - **Sécurité** - hachage, chiffrement, bonnes pratiques de stockage des secrets
 - **IA juridique** - RAG, extraction et vérification automatisées de documents, veille juridique
-
----
-
-💬 Je suis toujours partant pour échanger sur **legaltech**, **RGPD**, **IA** ou **cybersécurité** !

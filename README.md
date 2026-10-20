@@ -1,12 +1,11 @@
 # Juriste - codeur
 
-### Apprenti DPO
+### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
 
 ## 🎓 Parcours
 
 - **MBA Data Protection & Sécurité des données** - *Epitech*
 - **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
-- **Apprenti DPO** - *Nickel*, fintech du groupe BNP Paribas
 
 ## 🛠️ Stack
 

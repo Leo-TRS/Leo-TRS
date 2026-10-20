@@ -49,15 +49,6 @@ Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'I
 - **Sécurité** - hachage, chiffrement, bonnes pratiques de stockage des secrets
 - **IA juridique** - RAG, extraction et vérification automatisées de documents, veille juridique
 
-## 🚀 Autres projets
-
-| Projet | Description |
-|---|---|
-| [Verificateur-RGPD](https://github.com/Leo-TRS/Verificateur-RGPD) | Analyse un contrat PDF et détecte les clauses RGPD présentes et manquantes |
-| [python-hashpass-generateur](https://github.com/Leo-TRS/python-hashpass-generateur) | Générateur de mots de passe sécurisés, hachés et stockés en SQLite |
-| [Chiffrement-machine-ENIGMA](https://github.com/Leo-TRS/Chiffrement-machine-ENIGMA) | Machine ENIGMA en Python (POO) |
-| [Blockchain.py](https://github.com/Leo-TRS/Blockchain.py) | Blockchain minimaliste en Python |
-
 ---
 
 💬 Je suis toujours partant pour échanger sur **legaltech**, **RGPD**, **IA** ou **cybersécurité** !

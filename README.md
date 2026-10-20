@@ -34,12 +34,12 @@
 
 </div>
 
-## 🎓 Parcours
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-parcours-dark.svg"><img src="assets/title-parcours.svg" alt="Parcours" width="720"></picture>
 
 - **MBA Data Protection & Sécurité des données** - *Epitech*
 - **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
 
-## 🛠️ Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack.svg" alt="Stack" width="720"></picture>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## ⭐ Lead project - [Data Protection Auditor](https://github.com/Leo-TRS/GDPR_auditor_V2)
+## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data Protection Auditor" width="720"></picture></a>
 
 **Assistant d'audit de conformité propulsé par l'IA**, fondé sur un système de **RAG** (*Retrieval-Augmented Generation*) : les réponses s'appuient sur un corpus de textes officiels et **citent leurs sources**.
 
@@ -66,7 +66,7 @@
 
 ---
 
-## ⚖️ Domaines
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-domaines-dark.svg"><img src="assets/title-domaines.svg" alt="Domaines" width="720"></picture>
 
 - **Protection des données** - RGPD, Loi Informatique et Libertés, registre des traitements, analyse de contrats et de clauses
 - **Régulation de l'IA** - AI Act

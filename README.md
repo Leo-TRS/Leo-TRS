@@ -2,7 +2,7 @@
 
 ### Juriste · Informaticien · Apprenti DPO
 
-Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'IA au service de la conformité juridique** — RGPD, protection des données, analyse automatisée de documents.
+Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'IA au service de la conformité juridique** - RGPD, protection des données, analyse automatisée de documents.
 
 ```python
 leonard = {
@@ -33,9 +33,9 @@ leonard = {
 
 ## ⚖️ Domaines
 
-- **Protection des données** — RGPD, registre des traitements, analyse de contrats et de clauses
-- **Sécurité** — hachage, chiffrement, bonnes pratiques de stockage des secrets
-- **IA juridique** — extraction et vérification automatisées de documents, veille juridique
+- **Protection des données** - RGPD, registre des traitements, analyse de contrats et de clauses
+- **Sécurité** - hachage, chiffrement, bonnes pratiques de stockage des secrets
+- **IA juridique** - extraction et vérification automatisées de documents, veille juridique
 
 ## 🚀 Projets à la une
 

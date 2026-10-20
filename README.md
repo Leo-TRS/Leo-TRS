@@ -8,6 +8,11 @@
 </picture>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/epitech.png" alt="Epitech" height="38">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/nickel-dark.svg">
+  <img src="assets/nickel.svg" alt="Nickel" height="38">
+</picture>
 
 ### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
 

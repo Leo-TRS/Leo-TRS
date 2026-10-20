@@ -1,14 +1,12 @@
 # Bonjour, je suis Léonard 👋
 
-### Juriste · Informaticien · Apprenti DPO
-
-Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'IA au service de la conformité juridique** - RGPD, protection des données, analyse automatisée de documents.
+### Juriste informaticien - Apprenti DPO
 
 ## 🎓 Parcours
 
 - **MBA Data Protection & Sécurité des données** - *Epitech*
 - **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
-- **Apprenti DPO** - délégué à la protection des données en alternance
+- **Apprenti DPO** - *Nickel*, fintech du groupe BNP Paribas
 
 ## 📜 Certifications
 

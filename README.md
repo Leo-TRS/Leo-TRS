@@ -4,17 +4,28 @@
 
 Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'IA au service de la conformité juridique** - RGPD, protection des données, analyse automatisée de documents.
 
-```python
-leonard = {
-    "formation": [
-        "Licence de droit général",
-        "MBA Data Protection & Sécurité des données",
-    ],
-    "poste": "Apprenti DPO",
-    "langages": ["Python", "SQL"],
-    "mission": "Rendre la conformité juridique plus simple grâce à l'IA",
-}
-```
+## 🎓 Parcours
+
+- **MBA Data Protection & Sécurité des données** - *Epitech*
+- **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
+- **Apprenti DPO** - délégué à la protection des données en alternance
+
+## 📜 Certifications
+
+![ANSSI](https://img.shields.io/badge/Certification-ANSSI-000091?style=for-the-badge)
+![CNIL](https://img.shields.io/badge/Certification-CNIL-E1000F?style=for-the-badge)
+
+---
+
+## ⭐ Lead project - [Data Protection Auditor](https://github.com/Leo-TRS/GDPR_auditor_V2)
+
+**Assistant d'audit de conformité propulsé par l'IA**, fondé sur un système de **RAG** (*Retrieval-Augmented Generation*) : les réponses s'appuient sur un corpus de textes officiels et **citent leurs sources**.
+
+**Corpus juridique :** RGPD · AI Act · Loi Informatique et Libertés (LIL)
+
+- 🔍 **Audit de document** - politique de confidentialité, contrat ou registre de traitement : l'outil identifie les manquements et cite les articles concernés
+- 💬 **Chatbot RGPD** - questions en langage naturel, réponses sourcées
+- 📰 **Veille** - décisions de la CNIL et du CEPD, actualité de l'AI Act, résumées par l'IA
 
 ---
 
@@ -33,15 +44,15 @@ leonard = {
 
 ## ⚖️ Domaines
 
-- **Protection des données** - RGPD, registre des traitements, analyse de contrats et de clauses
+- **Protection des données** - RGPD, Loi Informatique et Libertés, registre des traitements, analyse de contrats et de clauses
+- **Régulation de l'IA** - AI Act
 - **Sécurité** - hachage, chiffrement, bonnes pratiques de stockage des secrets
-- **IA juridique** - extraction et vérification automatisées de documents, veille juridique
+- **IA juridique** - RAG, extraction et vérification automatisées de documents, veille juridique
 
-## 🚀 Projets à la une
+## 🚀 Autres projets
 
 | Projet | Description |
 |---|---|
-| [GDPR_auditor_V2](https://github.com/Leo-TRS/GDPR_auditor_V2) | Outil d'audit de conformité RGPD |
 | [Verificateur-RGPD](https://github.com/Leo-TRS/Verificateur-RGPD) | Analyse un contrat PDF et détecte les clauses RGPD présentes et manquantes |
 | [python-hashpass-generateur](https://github.com/Leo-TRS/python-hashpass-generateur) | Générateur de mots de passe sécurisés, hachés et stockés en SQLite |
 | [Chiffrement-machine-ENIGMA](https://github.com/Leo-TRS/Chiffrement-machine-ENIGMA) | Machine ENIGMA en Python (POO) |

@@ -8,11 +8,6 @@
 - **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
 - **Apprenti DPO** - *Nickel*, fintech du groupe BNP Paribas
 
-## 📜 Certifications
-
-![ANSSI - Sensibilisation à la cybersécurité](https://img.shields.io/badge/ANSSI-Sensibilisation%20à%20la%20cybersécurité-000091?style=for-the-badge)
-![CNIL - L'atelier RGPD](https://img.shields.io/badge/CNIL-L'atelier%20RGPD-E1000F?style=for-the-badge)
-
 ---
 
 ## ⭐ Lead project - [Data Protection Auditor](https://github.com/Leo-TRS/GDPR_auditor_V2)

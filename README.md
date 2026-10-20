@@ -1,6 +1,10 @@
-# Juriste - codeur
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000091,100:1D4ED8&height=180&section=header&text=L%C3%A9onard%20Torossian&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Juriste%20-%20codeur&descAlignY=60&descSize=20" alt="Léonard Torossian - Juriste - codeur" width="100%">
 
 ### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
+
+</div>
 
 ## 🎓 Parcours
 

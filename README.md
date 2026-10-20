@@ -58,11 +58,6 @@ Je fais le pont entre **le droit** et **le code** : je conçois des **outils d'I
 | [Chiffrement-machine-ENIGMA](https://github.com/Leo-TRS/Chiffrement-machine-ENIGMA) | Machine ENIGMA en Python (POO) |
 | [Blockchain.py](https://github.com/Leo-TRS/Blockchain.py) | Blockchain minimaliste en Python |
 
-## 📊 Stats GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Leo-TRS&show_icons=true&theme=default&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-TRS&layout=compact&hide_border=true)
-
 ---
 
 💬 Je suis toujours partant pour échanger sur **legaltech**, **RGPD**, **IA** ou **cybersécurité** !

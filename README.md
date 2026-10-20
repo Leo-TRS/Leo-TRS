@@ -24,7 +24,7 @@
 <sub><b>EN PRÉPARATION</b></sub>
 <br>
 <a href="https://iapp.org/certify/cippe/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=IAPP&message=CIPP%2FE&labelColor=64748B&color=94A3B8" alt="IAPP - CIPP/E (en préparation)"></a>
-<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=ISO%2FIEC&message=27701&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 (en préparation)"></a>
+<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=ISO%2FIEC%2027701&message=Lead%20Auditor&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 Lead Auditor (en préparation)"></a>
 <a href="https://iapp.org/certify/aigp/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=IAPP&message=AIGP&labelColor=64748B&color=94A3B8" alt="IAPP - AIGP (en préparation)"></a>
 <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CompTIA&message=Security%2B&labelColor=64748B&color=94A3B8" alt="CompTIA - Security+ (en préparation)"></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=AWS&message=Cloud%20Practitioner&labelColor=64748B&color=94A3B8" alt="AWS Certified Cloud Practitioner (en préparation)"></a>

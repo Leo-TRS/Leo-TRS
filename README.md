@@ -4,6 +4,9 @@
 
 ### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
 
+<a href="https://cyber.gouv.fr"><img src="https://img.shields.io/badge/ANSSI-Sensibilisation%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9-1E3A5F?style=for-the-badge" alt="Certification ANSSI - Sensibilisation à la cybersécurité"></a>
+<a href="https://atelier-rgpd.cnil.fr"><img src="https://img.shields.io/badge/CNIL-L'atelier%20RGPD-4A6FA5?style=for-the-badge" alt="Certification CNIL - L'atelier RGPD"></a>
+
 </div>
 
 ## 🎓 Parcours

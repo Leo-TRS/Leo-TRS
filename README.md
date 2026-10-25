@@ -36,7 +36,7 @@
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-parcours-dark.svg"><img src="assets/title-parcours.svg" alt="Parcours" width="720"></picture>
 
-- **MBA Data Protection & Sécurité des données** - *Epitech*
+- **MBA Data : Protection & Sécurité des données** - *Epitech*
 - **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack.svg" alt="Stack" width="720"></picture>
@@ -54,6 +54,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Bibliothèques et outils :** `pandas` · `matplotlib` · `streamlit` · `hashlib` · `sqlite3` · …
 

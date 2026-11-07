@@ -70,7 +70,6 @@ Il repose sur un système de **RAG** (*Retrieval-Augmented Generation*) : chaque
 
 - 📄 **Revue de contrat** - détection des clauses présentes, manquantes ou non conformes, avec les articles concernés
 - 💬 **Chatbot RGPD** - questions en langage naturel, réponses sourcées
-- 📰 **Veille** - décisions de la CNIL et du CEPD, actualité de l'AI Act, résumées par l'IA
 
 ---
 

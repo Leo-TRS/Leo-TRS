@@ -60,7 +60,7 @@
 
 ---
 
-## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data Protection Auditor" width="720"></picture></a>
+## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data protection contract auditor" width="720"></picture></a>
 
 **Assistant d'audit de conformité propulsé par l'IA**, fondé sur un système de **RAG** (*Retrieval-Augmented Generation*) : les réponses s'appuient sur un corpus de textes officiels et **citent leurs sources**.
 

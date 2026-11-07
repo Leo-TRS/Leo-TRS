@@ -12,6 +12,6 @@
     .title { font-family: 'Plex', 'Segoe UI', Arial, sans-serif; font-size: 30px; font-weight: 700; fill: #E6EDF3; }
   </style>
   <text class="prompt" x="2" y="36">>_</text>
-  <text class="title" x="48" y="37">Lead project - Data Protection Auditor</text>
+  <text class="title" x="48" y="37">Lead project - Data protection contract auditor</text>
   <rect x="2" y="50" width="520" height="3" rx="1.5" fill="url(#rule)"/>
 </svg>

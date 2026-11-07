@@ -62,11 +62,13 @@
 
 ## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data protection contract auditor" width="720"></picture></a>
 
-**Assistant d'audit de conformité propulsé par l'IA**, fondé sur un système de **RAG** (*Retrieval-Augmented Generation*) : les réponses s'appuient sur un corpus de textes officiels et **citent leurs sources**.
+**Outil de revue de contrats de traitement de données propulsé par l'IA.** Il analyse un contrat de sous-traitance (DPA) clause par clause et vérifie sa conformité au **RGPD**, notamment aux mentions obligatoires de l'**article 28**, en tenant compte des spécificités du droit français (**Loi Informatique et Libertés**).
 
-**Corpus juridique :** RGPD · AI Act · Loi Informatique et Libertés (LIL)
+Il repose sur un système de **RAG** (*Retrieval-Augmented Generation*) : chaque constat s'appuie sur un corpus de textes officiels et **cite ses sources**.
 
-- 🔍 **Audit de document** - politique de confidentialité, contrat ou registre de traitement : l'outil identifie les manquements et cite les articles concernés
+**Corpus juridique :** RGPD · Loi Informatique et Libertés (LIL) · AI Act
+
+- 📄 **Revue de contrat** - détection des clauses présentes, manquantes ou non conformes, avec les articles concernés
 - 💬 **Chatbot RGPD** - questions en langage naturel, réponses sourcées
 - 📰 **Veille** - décisions de la CNIL et du CEPD, actualité de l'AI Act, résumées par l'IA
 

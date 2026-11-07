@@ -58,8 +58,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**Bibliothèques et outils :** `hashlib` · `sqlite3` · …
-
 ---
 
 ## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data protection contract auditor" width="720"></picture></a>

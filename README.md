@@ -58,7 +58,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**Bibliothèques et outils :** `pandas` · `matplotlib` · `streamlit` · `hashlib` · `sqlite3` · …
+**Bibliothèques et outils :** `hashlib` · `sqlite3` · …
 
 ---
 

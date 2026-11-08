@@ -67,7 +67,7 @@
 
 ---
 
-## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - Data protection contract auditor" width="720"></picture></a>
+## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - GDPR contract auditor" width="720"></picture></a>
 
 **Outil de revue de contrats de traitement de données propulsé par l'IA.** Il analyse un contrat de sous-traitance (DPA) clause par clause et vérifie sa conformité au **RGPD**, notamment aux mentions obligatoires de l'**article 28**, en tenant compte des spécificités du droit français (**Loi Informatique et Libertés**).
 

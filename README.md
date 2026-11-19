@@ -1,10 +1,25 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner.svg" alt="Léonard Torossian - Legal tech developer · Data protection" width="100%">
-</picture>
+<img src="assets/banner.svg" alt="Léonard Torossian - Legal tech developer · Data protection" width="100%">
 
+<img src="assets/terminal.svg" alt="> je construis des outils d'IA de conformité RGPD." width="100%">
+
+<img src="https://img.shields.io/static/v1?style=flat-square&label=APPRENTI%20DPO&message=NICKEL%20%C2%B7%20BNP%20PARIBAS&labelColor=0B1A2E&color=4A6FA5" alt="Apprenti DPO - Nickel · BNP Paribas">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=MBA%20DATA&message=PROTECTION%20%26%20S%C3%89CURIT%C3%89%20DES%20DONN%C3%89ES%20%C2%B7%20EPITECH&labelColor=0B1A2E&color=4A6FA5" alt="MBA Data - Protection & Sécurité des données · Epitech">
+<img src="https://img.shields.io/static/v1?style=flat-square&label=LICENCE%20DE%20DROIT&message=UPEC&labelColor=0B1A2E&color=4A6FA5" alt="Licence de droit - UPEC">
+<br>
+<a href="https://cyber.gouv.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=ANSSI&message=SENSIBILISATION%20%C3%80%20LA%20CYBERS%C3%89CURIT%C3%89&labelColor=0B1A2E&color=4A6FA5" alt="Certification ANSSI - Sensibilisation à la cybersécurité"></a>
+<a href="https://atelier-rgpd.cnil.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=CNIL&message=L%27ATELIER%20RGPD&labelColor=0B1A2E&color=4A6FA5" alt="Certification CNIL - L'atelier RGPD"></a>
+<br>
+<sub>en préparation</sub>
+<br>
+<a href="https://iapp.org/certify/cippe/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=CIPP%2FE&labelColor=64748B&color=94A3B8" alt="IAPP - CIPP/E (en préparation)"></a>
+<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=flat-square&label=ISO%2FIEC%2027701&message=LEAD%20AUDITOR&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 Lead Auditor (en préparation)"></a>
+<a href="https://iapp.org/certify/aigp/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=AIGP&labelColor=64748B&color=94A3B8" alt="IAPP - AIGP (en préparation)"></a>
+<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/static/v1?style=flat-square&label=COMPTIA&message=SECURITY%2B&labelColor=64748B&color=94A3B8" alt="CompTIA - Security+ (en préparation)"></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/static/v1?style=flat-square&label=AWS&message=CLOUD%20PRACTITIONER&labelColor=64748B&color=94A3B8" alt="AWS Certified Cloud Practitioner (en préparation)"></a>
+
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/upec-dark.svg">
   <img src="assets/upec.svg" alt="UPEC" height="45">
@@ -17,27 +32,7 @@
   <img src="assets/nickel.svg" alt="Nickel" height="38">
 </picture>
 
-### Apprenti DPO - *Nickel*, fintech du groupe BNP Paribas
-
-<sub><b>CERTIFICATIONS OBTENUES</b></sub>
-<br>
-<a href="https://cyber.gouv.fr"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=ANSSI&message=Sensibilisation%20%C3%A0%20la%20cybers%C3%A9curit%C3%A9&labelColor=1E3A5F&color=4A6FA5" alt="ANSSI - Sensibilisation à la cybersécurité"></a>
-<a href="https://atelier-rgpd.cnil.fr"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CNIL&message=L'atelier%20RGPD&labelColor=1E3A5F&color=4A6FA5" alt="CNIL - L'atelier RGPD"></a>
-<br><br>
-<sub><b>EN PRÉPARATION</b></sub>
-<br>
-<a href="https://iapp.org/certify/cippe/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=IAPP&message=CIPP%2FE&labelColor=64748B&color=94A3B8" alt="IAPP - CIPP/E (en préparation)"></a>
-<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=ISO%2FIEC%2027701&message=Lead%20Auditor&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 Lead Auditor (en préparation)"></a>
-<a href="https://iapp.org/certify/aigp/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=IAPP&message=AIGP&labelColor=64748B&color=94A3B8" alt="IAPP - AIGP (en préparation)"></a>
-<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CompTIA&message=Security%2B&labelColor=64748B&color=94A3B8" alt="CompTIA - Security+ (en préparation)"></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=AWS&message=Cloud%20Practitioner&labelColor=64748B&color=94A3B8" alt="AWS Certified Cloud Practitioner (en préparation)"></a>
-
 </div>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-parcours-dark.svg"><img src="assets/title-parcours.svg" alt="Parcours" width="720"></picture>
-
-- **MBA Data : Protection & Sécurité des données** - *Epitech*
-- **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack.svg" alt="Stack" width="720"></picture>
 
@@ -67,16 +62,15 @@
 
 ---
 
-## <a href="https://github.com/Leo-TRS/GDPR_auditor_V2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - GDPR contract auditor" width="720"></picture></a>
+## <a href="https://github.com/Leo-TRS/GDPR-contract-auditor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-lead-project-dark.svg"><img src="assets/title-lead-project.svg" alt="Lead project - GDPR contract auditor" width="720"></picture></a>
 
-**Outil de revue de contrats de traitement de données propulsé par l'IA.** Il analyse un contrat de sous-traitance (DPA) clause par clause et vérifie sa conformité au **RGPD**, notamment aux mentions obligatoires de l'**article 28**, en tenant compte des spécificités du droit français (**Loi Informatique et Libertés**).
+**Revue de contrats de sous-traitance de données (DPA) propulsée par l'IA.** L'outil confronte le contrat à une liste d'éléments à vérifier : les mentions obligatoires de l'**article 28 du RGPD**, mais aussi des clauses complémentaires comme la **responsabilité en cas de violation de données**.
 
-Il repose sur un système de **RAG** (*Retrieval-Augmented Generation*) : chaque constat s'appuie sur un corpus de textes officiels et **cite ses sources**.
+- ❌ **Clauses manquantes** - les éléments de la liste absents du contrat
+- ⚠️ **Anomalies** - clauses incomplètes, ambiguës ou déséquilibrées
+- 📄 **Analyse** - clause par clause, avec les articles cités grâce au RAG
 
-**Corpus juridique :** RGPD · Loi Informatique et Libertés (LIL) · AI Act
-
-- 📄 **Revue de contrat** - détection des clauses présentes, manquantes ou non conformes, avec les articles concernés
-- 💬 **Chatbot RGPD** - questions en langage naturel, réponses sourcées
+**Sources :** RGPD · Code civil (droit des contrats et contrats spéciaux, si pertinent)
 
 ---
 

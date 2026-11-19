@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" alt="Léonard Torossian - UPEC, Epitech, Nickel" width="100%">
+<img src="assets/banner-jetbrains.svg" alt="Léonard Torossian - UPEC, Epitech, Nickel" width="100%">
 
 <img src="assets/terminal.svg" alt="> legal tech developer · data protection." width="100%">
 

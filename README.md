@@ -4,22 +4,6 @@
 
 <img src="assets/terminal.svg" alt="> legal tech developer · data protection." width="100%">
 
-<img src="https://img.shields.io/static/v1?style=flat-square&label=APPRENTI%20DPO&message=NICKEL%20%C2%B7%20BNP%20PARIBAS&labelColor=0B1A2E&color=4A6FA5" alt="Apprenti DPO - Nickel · BNP Paribas">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=MBA%20DATA&message=PROTECTION%20%26%20S%C3%89CURIT%C3%89%20DES%20DONN%C3%89ES%20%C2%B7%20EPITECH&labelColor=0B1A2E&color=4A6FA5" alt="MBA Data - Protection & Sécurité des données · Epitech">
-<img src="https://img.shields.io/static/v1?style=flat-square&label=LICENCE%20DE%20DROIT&message=UPEC&labelColor=0B1A2E&color=4A6FA5" alt="Licence de droit - UPEC">
-<br>
-<a href="https://cyber.gouv.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=ANSSI&message=SENSIBILISATION%20%C3%80%20LA%20CYBERS%C3%89CURIT%C3%89&labelColor=0B1A2E&color=4A6FA5" alt="Certification ANSSI - Sensibilisation à la cybersécurité"></a>
-<a href="https://atelier-rgpd.cnil.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=CNIL&message=L%27ATELIER%20RGPD&labelColor=0B1A2E&color=4A6FA5" alt="Certification CNIL - L'atelier RGPD"></a>
-<br>
-<sub>en préparation</sub>
-<br>
-<a href="https://iapp.org/certify/cippe/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=CIPP%2FE&labelColor=64748B&color=94A3B8" alt="IAPP - CIPP/E (en préparation)"></a>
-<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=flat-square&label=ISO%2FIEC%2027701&message=LEAD%20AUDITOR&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 Lead Auditor (en préparation)"></a>
-<a href="https://iapp.org/certify/aigp/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=AIGP&labelColor=64748B&color=94A3B8" alt="IAPP - AIGP (en préparation)"></a>
-<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/static/v1?style=flat-square&label=COMPTIA&message=SECURITY%2B&labelColor=64748B&color=94A3B8" alt="CompTIA - Security+ (en préparation)"></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/static/v1?style=flat-square&label=AWS&message=CLOUD%20PRACTITIONER&labelColor=64748B&color=94A3B8" alt="AWS Certified Cloud Practitioner (en préparation)"></a>
-
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/upec-dark.svg">
   <img src="assets/upec.svg" alt="UPEC" height="45">
@@ -32,7 +16,29 @@
   <img src="assets/nickel.svg" alt="Nickel" height="38">
 </picture>
 
+<br>
+
+<img src="https://img.shields.io/static/v1?style=flat-square&label=APPRENTI%20DPO&message=NICKEL%20%C2%B7%20BNP%20PARIBAS&labelColor=0B1A2E&color=4A6FA5" alt="Apprenti DPO - Nickel · BNP Paribas">
+<br>
+<sub>certifications</sub>
+<br>
+<a href="https://cyber.gouv.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=ANSSI&message=SENSIBILISATION%20%C3%80%20LA%20CYBERS%C3%89CURIT%C3%89&labelColor=0B1A2E&color=4A6FA5" alt="Certification ANSSI - Sensibilisation à la cybersécurité"></a>
+<a href="https://atelier-rgpd.cnil.fr"><img src="https://img.shields.io/static/v1?style=flat-square&label=CNIL&message=L%27ATELIER%20RGPD&labelColor=0B1A2E&color=4A6FA5" alt="Certification CNIL - L'atelier RGPD"></a>
+<br>
+<sub>en préparation</sub>
+<br>
+<a href="https://iapp.org/certify/cippe/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=CIPP%2FE&labelColor=64748B&color=94A3B8" alt="IAPP - CIPP/E (en préparation)"></a>
+<a href="https://www.iso.org/search.html?q=27701"><img src="https://img.shields.io/static/v1?style=flat-square&label=ISO%2FIEC%2027701&message=LEAD%20AUDITOR&labelColor=64748B&color=94A3B8" alt="ISO/IEC 27701 Lead Auditor (en préparation)"></a>
+<a href="https://iapp.org/certify/aigp/"><img src="https://img.shields.io/static/v1?style=flat-square&label=IAPP&message=AIGP&labelColor=64748B&color=94A3B8" alt="IAPP - AIGP (en préparation)"></a>
+<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/static/v1?style=flat-square&label=COMPTIA&message=SECURITY%2B&labelColor=64748B&color=94A3B8" alt="CompTIA - Security+ (en préparation)"></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/static/v1?style=flat-square&label=AWS&message=CLOUD%20PRACTITIONER&labelColor=64748B&color=94A3B8" alt="AWS Certified Cloud Practitioner (en préparation)"></a>
+
 </div>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-parcours-dark.svg"><img src="assets/title-parcours.svg" alt="Parcours" width="720"></picture>
+
+- **MBA Data : Protection & Sécurité des données** - *Epitech*
+- **Licence de droit général** - *Université Paris-Est Créteil (UPEC)*
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg"><img src="assets/title-stack.svg" alt="Stack" width="720"></picture>
 

@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Léonard Torossian - Legal tech developer · Data protection" width="100%">
 
-<img src="assets/terminal.svg" alt="> je construis des outils d'IA de conformité RGPD." width="100%">
+<img src="assets/terminal.svg" alt="> legal tech developer · data protection." width="100%">
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=APPRENTI%20DPO&message=NICKEL%20%C2%B7%20BNP%20PARIBAS&labelColor=0B1A2E&color=4A6FA5" alt="Apprenti DPO - Nickel · BNP Paribas">
 <img src="https://img.shields.io/static/v1?style=flat-square&label=MBA%20DATA&message=PROTECTION%20%26%20S%C3%89CURIT%C3%89%20DES%20DONN%C3%89ES%20%C2%B7%20EPITECH&labelColor=0B1A2E&color=4A6FA5" alt="MBA Data - Protection & Sécurité des données · Epitech">

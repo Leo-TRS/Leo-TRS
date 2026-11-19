@@ -1,22 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Léonard Torossian - Legal tech developer · Data protection" width="100%">
+<img src="assets/header-banner.svg" alt="Léonard Torossian - UPEC, Epitech, Nickel" width="100%">
 
 <img src="assets/terminal.svg" alt="> legal tech developer · data protection." width="100%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/upec-dark.svg">
-  <img src="assets/upec.svg" alt="UPEC" height="45">
-</picture>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/epitech.png" alt="Epitech" height="38">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nickel-dark.svg">
-  <img src="assets/nickel.svg" alt="Nickel" height="38">
-</picture>
-
-<br>
 
 <img src="https://img.shields.io/static/v1?style=flat-square&label=APPRENTI%20DPO&message=NICKEL%20%C2%B7%20BNP%20PARIBAS&labelColor=0B1A2E&color=4A6FA5" alt="Apprenti DPO - Nickel · BNP Paribas">
 <br>
